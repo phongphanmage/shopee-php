@@ -18,7 +18,8 @@ This is a [Shopee Partner API](https://open.shopee.com/documents) Client for PHP
 Execute the following command to get the package:
 
 ```console
-$ composer require minchao/shopee-php
+$  composer config repositories.phongphanmage/shopee-php vcs https://github.com/phongphanmage/shopee-php.git
+$  composer require phongphanmage/shopee-php
 ```
 
 ## Usage
